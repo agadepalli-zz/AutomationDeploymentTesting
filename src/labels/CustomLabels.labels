@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ACED_Delivery_Actuals_Value_cannot_be_in_negative</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delivery Actuals Value cannot be in negative</shortDescription>
+        <value>Value cannot be in negative</value>
+    </labels>
+    <labels>
+        <fullName>ACED_Insufficient_Access</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Insufficient access error if you do not have create,edit &amp; delete permission</shortDescription>
+        <value>Insufficient Access</value>
+    </labels>
+</CustomLabels>
